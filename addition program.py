@@ -1,0 +1,6 @@
+print("enter a number")
+a = float(input())
+print("now enter another one")
+b = float(input())
+print("addition of your two number is--",a+b)
+input("press enter for exit")
